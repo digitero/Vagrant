@@ -9,3 +9,8 @@ http://www.slideshare.net/shin1x1/xampp-mamp-vagrant-php
 エラー対象
 http://www.lancork.net/2013/11/vagrant135-synced-folder-permission-mount-options/
 
+hostsの管理にはMacなら「hoster」、windowsなら「Hosts File Manager」が便利
+
+http://www.redwinder.com/macapp/hoster/
+
+http://softwarefactory.jp/ja/products/hostsfilemanager/
