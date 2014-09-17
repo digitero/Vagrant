@@ -14,3 +14,5 @@ hostsの管理にはMacなら「hoster」、windowsなら「Hosts File Manager�
 http://www.redwinder.com/macapp/hoster/
 
 http://softwarefactory.jp/ja/products/hostsfilemanager/
+
+<img src="http://www.karakaram.com/wp-content/uploads/2014/04/vagrant-develop-style.png" alt="vagrant開発環境">
